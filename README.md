@@ -1,5 +1,6 @@
 # tugas_1
-![Uploading pm tugas 1 new.JPG…]()
+![pm tugas 1 new](https://github.com/user-attachments/assets/b1ff6aae-b837-43d4-bfdc-77dd251cd929)
+
 
 
 
