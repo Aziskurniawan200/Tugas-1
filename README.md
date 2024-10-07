@@ -1,6 +1,7 @@
 # tugas_1
+![Uploading pm tugas 1 new.JPG…]()
 
-A new Flutter project.
+
 
 ## Getting Started
 
